@@ -1,0 +1,18 @@
+[15-Aug-2018 05:46:54 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marketi1/public_html/dokidoki/admin/process_login.php on line 14
+[15-Aug-2018 05:46:54 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marketi1/public_html/dokidoki/admin/process_login.php on line 14
+[15-Aug-2018 05:46:54 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marketi1/public_html/dokidoki/admin/process_login.php on line 14
+[15-Aug-2018 05:46:54 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marketi1/public_html/dokidoki/admin/process_login.php on line 14
+[15-Aug-2018 05:47:09 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marketi1/public_html/dokidoki/admin/process_login.php on line 14
+[15-Aug-2018 05:47:09 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marketi1/public_html/dokidoki/admin/process_login.php on line 14
+[15-Aug-2018 05:47:09 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marketi1/public_html/dokidoki/admin/process_login.php on line 14
+[15-Aug-2018 05:47:09 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marketi1/public_html/dokidoki/admin/process_login.php on line 14
+[15-Aug-2018 05:47:46 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marketi1/public_html/dokidoki/admin/process_login.php on line 14
+[15-Aug-2018 05:47:46 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marketi1/public_html/dokidoki/admin/process_login.php on line 14
+[15-Aug-2018 05:47:46 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/marketi1/public_html/dokidoki/admin/process_login.php on line 14
+[15-Aug-2018 05:47:46 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/marketi1/public_html/dokidoki/admin/process_login.php on line 14
+[15-Aug-2018 05:55:56 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/marketi1/public_html/dokidoki/admin/logout.php on line 9
+[15-Aug-2018 05:55:56 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/marketi1/public_html/dokidoki/admin/logout.php:9) in /home/marketi1/public_html/dokidoki/admin/logout.php on line 10
+[15-Aug-2018 05:57:42 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/marketi1/public_html/dokidoki/admin/logout.php on line 8
+[15-Aug-2018 05:57:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/marketi1/public_html/dokidoki/admin/logout.php:8) in /home/marketi1/public_html/dokidoki/admin/logout.php on line 10
+[15-Aug-2018 06:01:11 America/New_York] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/marketi1/public_html/dokidoki/admin/logout.php on line 9
+[15-Aug-2018 06:01:11 America/New_York] PHP Fatal error:  Call to undefined function eader() in /home/marketi1/public_html/dokidoki/admin/logout.php on line 10
